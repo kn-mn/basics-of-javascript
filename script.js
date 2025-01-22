@@ -1,4 +1,4 @@
-var studentName = `Name` ; // "A variable named studentName and assign it a string value."
+const studentName = `Name` ; // "A variable named studentName and assign it a string value."
 var studentAge = 10 ; // "A variable named studentAge and assign it a numeric value."
 let isEnrolled = true ; // "A variable named isEnrolled and assign it a boolean value."
 
@@ -6,7 +6,7 @@ console.log(studentName) ; // "Log these variables to the console."
 console.log(studentAge) ; // "Log these variables to the console."
 console.log(isEnrolled) ; // "Log these variables to the console."
 
-var isMessage = "Hello" ;
+const isMessage = "Hello" ;
 var isNumber = 100 ;
 let isBoolean = false ;
 let fruitTypes = [`apple`,`banana`,`cherry`] ;
